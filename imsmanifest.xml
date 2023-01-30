@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_65S8CNx04tB" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">RSA Interview 090922 Sam Wright</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="RSA_Interview_090922_Sam_Wright_ORG">
+    <organization identifier="RSA_Interview_090922_Sam_Wright_ORG">
+      <title>RSA Interview 090922 Sam Wright</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__65S8CNx04tB_RES">
+        <title>RSA Interview 090922 Sam Wright</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__65S8CNx04tB_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6VXpMegFjew_80_DX1954_DY1954_CX593_CY1077.png" />
+      <file href="mobile/67v4ZrAPukF_80_DX36_DY36_CX15_CY27.png" />
+      <file href="mobile/5VaMbjscRge_80_DX3240_DY3240_CX2048_CY1365.png" />
+      <file href="mobile/6AF8Lg3SiVc_80_DX200_DY200_CX150_CY150.png" />
+      <file href="mobile/5o76DpUgBTX_80_DX200_DY200_CX150_CY150.png" />
+      <file href="mobile/69yRMCYtQWv_80_DX170_DY170_CX85_CY85.png" />
+      <file href="mobile/5xEB0PF5VQp_80_DX200_DY200_CX100_CY100.gif" />
+      <file href="mobile/68JIXZs2Lug_80_DX60_DY60_CX45_CY39.png" />
+      <file href="mobile/6gOfZt9MWrE_80_DX60_DY60_CX45_CY39.png" />
+      <file href="mobile/6oU2jn7oNoD_80_DX328_DY328_CX246_CY246.png" />
+      <file href="mobile/6orre9OrNu8_80_DX160_DY160_CX119_CY88.png" />
+      <file href="mobile/6IxLHuhlnoC_80_DX300_DY300_CX225_CY225.png" />
+      <file href="mobile/6AF8Lg3SiVc_80_DX200_DY200_CX60_CY60.png" />
+      <file href="mobile/5o76DpUgBTX_80_DX200_DY200_CX60_CY60.png" />
+      <file href="mobile/69yRMCYtQWv_80_DX170_DY170_CX60_CY60.png" />
+      <file href="mobile/5xEB0PF5VQp_80_DX200_DY200_CX60_CY60.gif" />
+      <file href="mobile/6jNLBPHrfZR_80_DX562_DY562_CX421_CY421.png" />
+      <file href="mobile/5zxf412FNvm_80_DX562_DY562_CX421_CY421.png" />
+      <file href="mobile/5tgzaaX3bMN_80_DX562_DY562_CX421_CY421.png" />
+      <file href="mobile/5ljISFu4pCd_80_DX562_DY562_CX421_CY421.png" />
+      <file href="story_content/video_6bvfq44CPsV_22_48_1920x1080.mp4" />
+      <file href="mobile/poster_5agEpJI2WTt_video_6bvfq44CPsV_22_48_1920x1080.jpg" />
+      <file href="mobile/6qyXwO9aepe_80_DX48_DY48_CX36_CY36.png" />
+      <file href="mobile/65lwMEeFR40_80_DX48_DY48_CX36_CY36.png" />
+      <file href="mobile/5UtoiqinGuy_80_DX272_DY272_CX202_CY178.png" />
+      <file href="mobile/5oV1U1BgbJT_80_DX182_DY182_CX136_CY104.png" />
+      <file href="mobile/6Urg6jNehnk_80_DX128_DY128_CX64_CY64.png" />
+      <file href="mobile/68kZBdZIkOE_80_DX52_DY52_CX39_CY39.png" />
+      <file href="story_content/video_5WcBbkdYmiv_22_48_1920x1080.mp4" />
+      <file href="mobile/poster_6IFYdrVtBQq_video_5WcBbkdYmiv_22_48_1920x1080.jpg" />
+      <file href="story_content/video_6aEOQLlzGPk_22_48_1920x1080.mp4" />
+      <file href="mobile/poster_5jXJVx3g1Gz_video_6aEOQLlzGPk_22_48_1920x1080.jpg" />
+      <file href="story_content/video_5dtiZdKU7sh_22_48_1920x1080.mp4" />
+      <file href="mobile/poster_5dt5jhSrvP8_video_5dtiZdKU7sh_22_48_1920x1080.jpg" />
+      <file href="mobile/5abVnNnZAmx_80_DX1490_DY1490_CX1117_CY1017.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5XoWGRhQdkl.js" />
+      <file href="html5/data/js/61JCvEZTt0F.js" />
+      <file href="html5/data/js/6KiP7knp7ZM.js" />
+      <file href="html5/data/js/6qndlkwjq5U.js" />
+      <file href="html5/data/js/6qzUmdOPgwQ.js" />
+      <file href="html5/data/js/6rA1PYo4kX3.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
